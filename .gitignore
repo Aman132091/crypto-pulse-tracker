@@ -1,0 +1,19 @@
+# Ignore node_modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+dist/
+build/
+
+# Env files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
